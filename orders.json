@@ -1,6 +1,6 @@
 {
   "S24194": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Steffen Meier, Am Brink 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Colin Blum, Lessingstraße 8, 67454 Haßloch, Deutschland",
@@ -28,10 +28,10 @@
     "orderDate": "06.01.2026",
     "deliveryDate": "13.01.2026 - 15:30 Uhr",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Karlsruher Straße 37",
+      "postal_code": "30519",
+      "city": "Hannover",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
